@@ -29,13 +29,13 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-[Gif](https://giphy.com/gifs/58FB18eJjZqK61seyN)
+[User story gif: ](https://giphy.com/gifs/58FB18eJjZqK61seyN)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Changing the color of the action bar and other elements proved more difficult than expected; I decided to change the theme colors because this allowed for more straightforward color adjustments. Also, concepts that would seem simple, like making the list bulleted, I discovered are actually pretty complicated when using just ListView.
 
 ## License
 
